@@ -97,5 +97,16 @@
 
   body {
     @apply bg-background text-foreground;
+    font-family: "Golos Text", system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  .tracking-tightest {
+    letter-spacing: -0.04em;
   }
 }
