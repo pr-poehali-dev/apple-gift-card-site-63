@@ -93,7 +93,7 @@ const Index = () => {
             <h1 className="text-5xl md:text-6xl font-extrabold tracking-tightest leading-[1.05] text-balance">
               Apple Gift Card.
               <br />
-              <span className="text-zinc-400">Подарок, который работает.</span>
+              <span className="text-zinc-400">Мгновенно на почту.</span>
             </h1>
             <p className="mt-6 text-lg text-zinc-500 max-w-md text-balance">
               Пополняйте Apple ID, покупайте приложения, игры, музыку и
